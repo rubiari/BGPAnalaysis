@@ -1,5 +1,6 @@
 # BGPAnalaysis
 Analysis of BGP prefix churn rate vs traffic popularity
+DAVID ARIAS RUBIO - MASTER'S THESIS (September 2018)
 
 This code analyzes the UPDATE traces for a set of days for the years 2014 and 2015.
 We correlate this data with the traffic popularity for these prefix obtained by a 
